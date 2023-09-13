@@ -1,5 +1,7 @@
 Day-by-day roadmap for mastering devNops in 90 days requires careful planning and organization. Here's a detailed daily plan for your journey:
 
+#Month 0: Networking Basics (my suggestion for discussion)
+
 Month 1: Building Foundations
 
 Days 1-3: DevOps Introduction and Setup
